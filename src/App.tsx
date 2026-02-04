@@ -39,7 +39,7 @@ function App() {
     let top = 0;
     let left = 0;
 
-    // ✅ Keep generating positions until we're outside the YES zone
+    // ✅ Keep generating positions until we're outside the YES 
     do {
       top = Math.random() * 90 + 5; // 5% to 95%
       left = Math.random() * 90 + 5; // 5% to 95%
